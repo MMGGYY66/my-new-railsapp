@@ -8,6 +8,7 @@ debugger
 beverage = "Arizona Iced Tea"
 puts "I love drinking #{beverage}"
 
-debugger
+# debugger
+binding.break
 
 puts "This is the end of the program"
